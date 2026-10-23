@@ -1,0 +1,6 @@
+{
+  "name": "ResearchPilot",
+  "description": "AI-powered academic research assistant for topic formulation, literature analysis, gap identification, and research brief generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
